@@ -9,5 +9,6 @@
 </head>
 <body>
     <h1>The Truck Website</h1>
+    <p>This is a website for trucks.</p>
 </body>
 </html>
